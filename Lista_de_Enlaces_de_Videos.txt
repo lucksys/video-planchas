@@ -33,7 +33,6 @@ info: "Compósición en idioma: Español neutro
        Signo_Palabra_y_Toque."  
 
 ------------------------------------------------------------------------------
-
 3- LAS_DOCE_COLUMNAS_DEL_TEMPLO 
 ---------------------------------
 
@@ -45,4 +44,14 @@ info: "Compósición en idioma: Español neutro
 LAS_DOCE_COLUMNAS_DEL_TEMPLO."  
 
 ------------------------------------------------------------------------------
+4- Pistis-Sophia 
+----------------
 
+url-imagen:  "https://lucksys.github.io/video-planchas/Pistis-Sophia/portada.jpg"
+url-video:   "https://drive.google.com/file/d/1KekZSwxu8kLlrKv8rHVf7h5TgPoS-BX0/view"
+url-cancion: "https://drive.google.com/file/d/1KekZSwxu8kLlrKv8rHVf7h5TgPoS-BX0/view"
+web-video:   "https://lucksys.github.io/video-planchas/Pistis-Sophia/index"
+info:        "Compósición en idioma: Español neutro
+              Pistis-Sophia."  
+
+------------------------------------------------------------------------------
