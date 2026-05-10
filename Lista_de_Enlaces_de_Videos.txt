@@ -1,0 +1,24 @@
+-----------------------------------------------------------------------------
+0- Listado de Video-karaoke
+---------------------------
+
+url-imagen: "https://lucksys.github.io/video-planchas/portada.jpg"
+url-video: "hhttps://drive.google.com/drive/folders/1tDLGQHJaL8NqsJNqlR2G4CUi453gdRfR"
+url-cancion: "https://drive.google.com/drive/folders/1tDLGQHJaL8NqsJNqlR2G4CUi453gdRfR"
+web-video: "https://lucksys.github.io/video-planchas/index"
+web-canción: "https://lucksys.github.io/video-planchas/index"
+info: "Indice Geberal de Video-Planchas
+N.A."
+
+------------------------------------------------------------------------------
+1- LAS_DOCE_COLUMNAS_DEL_TEMPLO 
+---------------------------------
+
+url-imagen: "https://lucksys.github.io/video-planchas/LAS_DOCE_COLUMNAS_DEL_TEMPLO/portada.jpg"
+url-video: "https://drive.google.com/file/d/1HUc2Htr8bNlokzlXbIzrt9j_0Qpgv-M5/view"
+url-cancion: "https://drive.google.com/file/d/1HUc2Htr8bNlokzlXbIzrt9j_0Qpgv-M5/view"
+web-video: "https://lucksys.github.io/video-planchas/LAS_DOCE_COLUMNAS_DEL_TEMPLO/index"
+info: "Compósición en idioma: Español neutro
+LAS_DOCE_COLUMNAS_DEL_TEMPLO."  
+
+------------------------------------------------------------------------------
