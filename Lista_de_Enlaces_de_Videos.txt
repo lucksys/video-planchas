@@ -11,7 +11,30 @@ info: "Indice Geberal de Video-Planchas
 N.A."
 
 ------------------------------------------------------------------------------
-1- LAS_DOCE_COLUMNAS_DEL_TEMPLO 
+1- El_Silencio_de_la_Aprendiz 
+---------------------------------
+
+url-imagen: "https://lucksys.github.io/video-planchas/El_Silencio_de_la_Aprendiz/portada.jpg"
+url-video: "https://drive.google.com/file/d/1Gf7Xzh85ngOXjmGfa0ggFCvzXC0mu5zc/view"
+url-cancion: "https://drive.google.com/file/d/1Gf7Xzh85ngOXjmGfa0ggFCvzXC0mu5zc/view"
+web-video: "https://lucksys.github.io/video-planchas/El_Silencio_de_la_Aprendiz/index"
+info: "Compósición en idioma: Español neutro
+El_Silencio_de_la_Aprendiz ."  
+
+------------------------------------------------------------------------------
+1- Signo_Palabra_y_Toque 
+---------------------------------
+
+url-imagen: "https://lucksys.github.io/video-planchas/Signo_Palabra_y_Toque/portada.jpg"
+url-video: "https://drive.google.com/file/d/1cEEy1CKWT1fDzwmNmq_guY2mDbQ9fMM5/view"
+url-cancion: "https://drive.google.com/file/d/1cEEy1CKWT1fDzwmNmq_guY2mDbQ9fMM5/view"
+web-video: "https://lucksys.github.io/video-planchas/Signo_Palabra_y_Toque/index"
+info: "Compósición en idioma: Español neutro
+Signo_Palabra_y_Toque."  
+
+------------------------------------------------------------------------------
+
+3- LAS_DOCE_COLUMNAS_DEL_TEMPLO 
 ---------------------------------
 
 url-imagen: "https://lucksys.github.io/video-planchas/LAS_DOCE_COLUMNAS_DEL_TEMPLO/portada.jpg"
